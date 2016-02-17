@@ -1,0 +1,165 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+.row{
+	margin:0;
+	padding:0;
+}
+.col-md-12,.col-md-11,.col-md-10,.col-md-9,.col-md-8,.col-md-7,.col-md-6,
+.col-md-5,.col-md-4,.col-md-3,.col-md-2,.col-md-1{
+	padding:0;
+	margin:0;
+}
+.col-lg-9,.col-lg-6,.col-lg-3,.col-lg-12{
+	padding: 0;
+	margin:0;
+}
+ul{
+	padding:0;
+	margin:0;
+}
+h2{
+	padding:0;
+	margin:0;
+}
+body {
+	font-family: "MontserratRegular";
+	color:#fff;
+	font-size:15px;
+}
+.top-header{
+	background-color: #12acc0;
+}
+.top-line{
+	background-color: #373c3f;
+	text-transform: uppercase;
+}
+.top-line a{
+	color: #fff;
+}
+.menu{
+	display: inline-block;
+	padding-left:55px;
+}
+
+.menu li{
+	display: inline-block;
+	margin-right:30px;
+	padding:25px 0;
+}
+.menu li:hover{
+	cursor:pointer;
+	opacity:0.7;
+}
+.nav-img{
+	width:80px;
+	min-height:52px;
+	text-align: center;
+	display:none;
+	background-color: #202529;
+}
+.nav-img a{
+	line-height:51px;
+	font-size: 30px;
+}
+.nav{
+	display: none;
+	text-transform: capitalize;
+	padding:15px 0 15px 55px;
+}
+.main-title{
+	display:inline-block;
+	padding-bottom: 170px;
+}
+.name-site{
+	margin:289px 0 30px 79px;
+	font-size: 60px;
+	line-height: 70px;
+}
+.link{
+	color: #a6d4de;
+	font-size: 34px;
+	margin: 0 0 0 82px;
+}
+.content,.art-name{
+	min-height: 245px;
+	background-color: #27212c;
+}
+.link-next{
+	color: #fff;
+	font-size: 36px;
+	font-family: 'Quicksand';
+	font-weight:700;
+	float: right;
+}
+.art-name{
+	color: #9987a7;
+	font-size: 30px;
+	padding: 100px 0;
+	text-align: center;
+}
+.art-link{
+	background-color: #bc3183;
+	color: #fff;
+	font-family: 'Quicksand';
+	font-weight:700;
+	font-size: 50px;
+	padding: 87px 0;
+	text-align: center;
+}
+.block-1{
+	background-attachment: scroll;
+	display: block;
+	height: 0;
+	background-color: #5b0fa1;
+	font-family: "Quicksand";
+	font-weight: 700;
+	font-size: 52px;
+	text-align: center;
+	padding-bottom: 86.8%;
+	color: #fff;
+}
+.block-1::after{
+	content:">";
+	position: absolute;
+	top: 50%;
+	left:50%;
+}
+.block-img img{
+	display:block;
+	width: 100%;
+}
+
+.site-desc{
+	background-color: #ebebeb;
+}
+.name-desc{
+	padding:55px 82px;
+	color: #088ca5;
+	font-size: 30px;
+}
+.desc{
+	color: #515151;
+	font-size: 14px;
+	padding: 0 0 0 82px;
+}
+.desc p{
+	padding-bottom:50px;
+	line-height: 26px;
+}
+.right-desc{
+	padding-right:90px;
+}
