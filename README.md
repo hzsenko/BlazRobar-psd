@@ -1,3 +1,3 @@
-# BlazeRobar test work page
+# Noveo test work page
 
 Тестовое задание, html верстка
